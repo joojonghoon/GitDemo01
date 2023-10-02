@@ -2,7 +2,7 @@ package test;
 
 public class Test1 {
 	public static void main(String[] args) {
-	   String name = "김태희";
+	   String name = "hi!";
 	      int score = 75; 
 	      char grade = ' ';
 	      String branch_name = "BrahcnX";
